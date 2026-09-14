@@ -1,2 +1,2 @@
 # jamniczki
-A social network for 
+A social network for dog owners.
